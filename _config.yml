@@ -2,14 +2,13 @@
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
-relative_permalinks: true
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               Tim Wilkens
+tagline:             Today I Learned
+url:                 http://
 paginate:            1
-baseurl:             ""
+baseurl:             https://timwilkens.github.io
 
 # Assets
 #
@@ -20,11 +19,8 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Tim Wilkens
+  url:               https://timwilkens.github.io
+  email:             timwilkensf1@gmail.com
 
-# Custom vars
-version:             2.0.0
-github:
-  repo:              https://github.com/poole/poole
+gems: [jekyll-paginate]
