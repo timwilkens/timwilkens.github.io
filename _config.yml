@@ -5,8 +5,8 @@ permalink:           pretty
 
 # Setup
 title:               Tim Wilkens
-tagline:             Today I Learned
-url:                 http://
+tagline:             
+url:                 https://timwilkens.github.io/
 paginate:            1
 baseurl:             https://timwilkens.github.io/
 
