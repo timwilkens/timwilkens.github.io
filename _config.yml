@@ -8,9 +8,9 @@ pygments:         true
 # Setup
 title:               Tim Wilkens
 tagline:             
-url:                 https://timwilkens.github.io/
+url:                 https://timwilkens.github.io
 paginate:            1
-baseurl:             https://timwilkens.github.io/
+baseurl:             
 
 # Assets
 #
@@ -24,5 +24,8 @@ author:
   name:              Tim Wilkens
   url:               https://timwilkens.github.io
   email:             timwilkensf1@gmail.com
+
+github:
+  repo:           github.com/timwilkens/timwilkens.github.io
 
 gems: [jekyll-paginate]
