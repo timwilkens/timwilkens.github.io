@@ -8,7 +8,6 @@ pygments:         true
 # Setup
 title:               Tim Wilkens
 tagline:             
-url:                 https://timwilkens.github.io
 paginate:            1
 
 # Assets
